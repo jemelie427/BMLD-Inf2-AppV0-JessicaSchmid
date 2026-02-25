@@ -11,5 +11,5 @@ Diese App wurde von folgenden Personen entwickelt:
 
 Diese App ist das leere Gerüst für die App-Entwicklung im Modul Informatik 2 (BMLD/ZHAW)
 
-Autor: Jessica Schmid (schmij30@students.zhaw.ch)
+Autor: Samuel Wehrli (wehs@zhaw.ch)
 """
